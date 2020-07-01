@@ -4,7 +4,7 @@
 
 En este curso conocerás el ecosistema de desarrollo de Python enfocado a ciencia de datos. Se realizarán talleres en cada sesión para poner en práctica lo explicado por el profesor y se realizarán 4 proyectos que simulan actividades comunes para un científico de datos o un ingeniero de Machine Learning.
 
-Se espera que tengas familiaridad con conceptos de programación, aunque se hará un repaso rápido en cada tema que veamos. Si nunca has visto ningún curso de programación básica, te recomiendo seggir el [Sratch Programming Playground](https://inventwithscratch.com/book/), en donde se programa de una forma interactiva. 
+Se espera que tengas familiaridad con conceptos de programación, aunque se hará un repaso rápido en cada tema que veamos. Si nunca has visto ningún curso de programación básica, te recomiendo seguir el [Sratch Programming Playground](https://inventwithscratch.com/book/), en donde se programa de una forma interactiva y la serie [Think Like a Coder](https://www.youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or), en donde se explican varios conceptos de programación enmarcados en una historia de ciencia ficción. 
 
 ## Programación de sesiones
 
@@ -21,7 +21,7 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   - Lectura de archivos.
   - Persistencia y compresión de datos.
   - Concurrencia y paralelismo.
-  - Proyecto 2: Manimuplación concurrente y paralela de archivos.
+  - Proyecto 2: Manipulación concurrente y paralela de archivos.
   
 **SESIÓN 04** (4hrs):
   - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia
@@ -36,6 +36,10 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 
 - **25%**: TALLERES, cada taller tendrá el mismo valor.
 - **75%**: PROYECTOS, cada proyecto tendrá el mismo valor.
+
+En los talleres únicamente se revisará que el código cumpla su propósito, lo que implica que solo se revisará la respuesta que este entrega. En los proyectos se tendrá en cuenta la calidad de la solución, dando especial importancia a la claridad del trabajo realizado.
+
+Finalmente, se tiene un bono adicional en la evaluación por cada error reportado del material del curso. Estos deben reportarse como *issues*  the github is su solución debe proponerse como un *pull request* intenando solucionar el *issue*  correspondiente. Este bono tendrá un valor de un 3% adicional que se le puede sumar a cualquiera de los talleres o los proyectos. 
 
 ## Entregas
 
