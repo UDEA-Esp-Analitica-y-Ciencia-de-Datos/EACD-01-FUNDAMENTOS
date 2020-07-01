@@ -37,6 +37,10 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 - **25%**: TALLERES, cada taller tendrá el mismo valor.
 - **75%**: PROYECTOS, cada proyecto tendrá el mismo valor.
 
+En los talleres únicamente se revisará que el código cumpla su propósito, lo que implica que solo se revisará la respuesta que este entrega. En los proyectos se tendrá en cuenta la calidad de la solución, dando especial importancia a la claridad del trabajo realizado.
+
+Finalmente, se tiene un bono adicional en la evaluación por cada error reportado del material del curso. Estos deben reportarse como *issues*  the github is su solución debe proponerse como un *pull request* intenando solucionar el *issue*  correspondiente. Este bono tendrá un valor de un 3% adicional que se le puede sumar a cualquiera de los talleres o los proyectos. 
+
 ## Entregas
 
 Tanto los talleres como los proyectos tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los proyectos podrán ser entregados hasta 2 días después de trabajados en clase. Los talleres solo pueden ser resueltos durante la clase y es por esto corresponden a un componente mínimo en la evaluación final del curso.
