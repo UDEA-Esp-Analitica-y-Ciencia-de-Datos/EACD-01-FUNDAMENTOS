@@ -21,7 +21,7 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   - Lectura de archivos.
   - Persistencia y compresión de datos.
   - Concurrencia y paralelismo.
-  - Proyecto 2: Manimuplación concurrente y paralela de archivos.
+  - Proyecto 2: Manipulación concurrente y paralela de archivos.
   
 **SESIÓN 04** (4hrs):
   - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia
