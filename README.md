@@ -4,7 +4,7 @@
 
 En este curso conocerás el ecosistema de desarrollo de Python enfocado a ciencia de datos. Se realizarán talleres en cada sesión para poner en práctica lo explicado por el profesor y se realizarán 4 proyectos que simulan actividades comunes para un científico de datos o un ingeniero de Machine Learning.
 
-Se espera que tengas familiaridad con conceptos de programación, aunque se hará un repaso rápido en cada tema que veamos. Si nunca has visto ningún curso de programación básica, te recomiendo seggir el [Sratch Programming Playground](https://inventwithscratch.com/book/), en donde se programa de una forma interactiva. 
+Se espera que tengas familiaridad con conceptos de programación, aunque se hará un repaso rápido en cada tema que veamos. Si nunca has visto ningún curso de programación básica, te recomiendo seguir el [Sratch Programming Playground](https://inventwithscratch.com/book/), en donde se programa de una forma interactiva y la serie [Think Like a Coder](https://www.youtube.com/playlist?list=PLJicmE8fK0EgogMqDYMgcADT1j5b911or), en donde se explican varios conceptos de programación enmarcados en una historia de ciencia ficción. 
 
 ## Programación de sesiones
 
