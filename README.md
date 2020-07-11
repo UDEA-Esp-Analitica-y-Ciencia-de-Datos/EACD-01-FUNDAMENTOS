@@ -10,7 +10,9 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 
 **SESIÓN 01** (6hrs):
   - Tipos de datos, control de flujo y ciclos.
+  - Taller 1: ejercicios de algoritmia
   - Funciones, lambdas, clases, clousures y decoradores.
+  - Taller 2: ejercicios de simulación en Python.
   
 **SESIÓN 02** (4hrs):
   - Instalación, ambientes, terminales, paquetes, módulos, scripts.
