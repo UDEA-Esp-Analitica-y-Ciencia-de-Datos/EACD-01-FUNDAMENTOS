@@ -1,4 +1,4 @@
-# Simulaicones usando OOP
+# Simulaicones usando Python
 
 En este taller vamos a poner a prueba tus habilidades de programación orientada a objetos. A continuación tienes 3 retos de simulación que puedes resolver con OOP, debes escoger y resolver 1.
 
@@ -8,7 +8,7 @@ En este taller vamos a poner a prueba tus habilidades de programación orientada
     - Cada jugador revuelve sus dados y los tira, cada uno puede ver su propio resultado pero no el de los demás.
     - Es el turno de un jugador, este debe debe decir cuántos dados con qué número hay en la mesa y retar a otro jugador.
     - El jugador retado debe decir si lo que dice el jugador anterior es falso o si puede ser verdadero e incluso un puede haber un número superior de dados del mismo valor.
-    - Su código debe simular este escenario y calcular la probabilidad de que el jugador retante esté diciendo la verdad.
+    - Su código debe simular este escenario y calcular la probabilidad de que el jugador retante esté diciendo algo falso. Debe realizar una función que reciba una estimación y calcule la probabilidad de falso.
 2. **Recorrer un tablero de parqués:**
     - Es un juego de parqués con solo N jugadores, cada jugador tiene M fichas.
     - La salida de la cárcel es automática.
