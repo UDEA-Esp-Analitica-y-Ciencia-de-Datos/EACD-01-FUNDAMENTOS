@@ -16,7 +16,7 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   
 **SESIÓN 02** (4hrs):
   - Instalación, ambientes, terminales, paquetes, módulos, scripts.
-  - [Proyecto 1: construyendo una librería de álgebra lineal](https://classroom.github.com/a/2X-KnV-5).
+  - Proyecto 1: construyendo una librería de álgebra lineal
 
 **SESIÓN 03** (6hrs):
   - `itertools` y `functools`.
