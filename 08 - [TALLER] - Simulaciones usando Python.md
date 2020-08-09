@@ -1,4 +1,4 @@
-# Simulaicones usando Python
+# Simulaciones usando Python
 
 En este taller vamos a poner a prueba tus habilidades de programación orientada a objetos. A continuación tienes 3 retos de simulación que puedes resolver con OOP, debes escoger y resolver 1.
 
