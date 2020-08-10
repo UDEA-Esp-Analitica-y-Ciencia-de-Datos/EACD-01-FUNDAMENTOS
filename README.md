@@ -11,15 +11,16 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 **SESIÓN 01** (6hrs):
   - Tipos de datos, control de flujo y ciclos.
   - Taller 1: ejercicios de algoritmia
-  - Funciones, lambdas, clases, clousures y decoradores.
-  - Taller 2: ejercicios de simulación en Python.
+  - Funciones, lambdas, clousures, decoradores y functools.
+  - Programación orientada a objetos en Python
+  - Projecto 1: simulación para cálculo de probabilidades
+  - Iterable, iterator, itertools
   
 **SESIÓN 02** (4hrs):
   - Instalación, ambientes, terminales, paquetes, módulos, scripts.
   - Proyecto 1: construyendo una librería de álgebra lineal
 
 **SESIÓN 03** (6hrs):
-  - `itertools` y `functools`.
   - Lectura de archivos.
   - Persistencia y compresión de datos.
   - Concurrencia y paralelismo.
@@ -27,12 +28,13 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   
 **SESIÓN 04** (4hrs):
   - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia
+  - Taller 2: implementación de una regresión lineal en Python
   - Pandas: lectura y procesamiento de datos tabulares.
-  - Matplotlib: visualización de datos
+  - Proyecto 3: Preparación de un dataset para Machine Learning
   
 **SESIÓN 05** (6hrs):
-  - Proyecto 3: Análisis de la accidentalidad de Medellín
-  - Proyecto 4: Preparación de un dataset para Machine Learning
+  - Matplotlib: visualización de datos 
+  - Proyecto 4: Análisis de la accidentalidad de Medellín
 
 ## Criterios de evaluación
 
@@ -41,7 +43,7 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 
 En los talleres únicamente se revisará que el código cumpla su propósito, lo que implica que solo se revisará la respuesta que este entrega. En los proyectos se tendrá en cuenta la calidad de la solución, dando especial importancia a la claridad del trabajo realizado.
 
-Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluaciónde la siguiente manera:
+Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
 - Bonos por por cada contribución al material del curso. Estos deben reportarse como *issues*  the github is su solución debe proponerse como un *pull request* intenando solucionar el *issue*  correspondiente. Este bono tendrá un valor de un 1% adicional en la evaluación final del curso. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles.
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *easy* tendrá un valor del 6% en la evaluación final del curso.
