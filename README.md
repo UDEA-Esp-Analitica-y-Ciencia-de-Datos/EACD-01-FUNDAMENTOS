@@ -9,19 +9,25 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 ## Programación de sesiones
 
 **SESIÓN 01** (6hrs):
-  - Tipos de datos, control de flujo y ciclos.
-  - Taller 1: ejercicios de algoritmia
-  - Funciones, lambdas, clousures, decoradores y functools.
-  - Programación orientada a objetos en Python
-  - Projecto 1: simulación para cálculo de probabilidades
-  - Iterable, iterator, itertools
+  - Tipos de datos y operadores [15min]
+  - Estructuras de datos [10min]
+  - Control de flujo y ciclos [15min]
+  - Descansar [20min]
+  - Taller 1: ejercicios de algoritmia [1.5h]
+  - Funciones y lambdas [20min]
+  - Funciones 2.0 [15min]
+  - Descansar [20min]
+  - Programación orientada a objetos en Python [30min]
+  - Projecto 1: simulación para cálculo de probabilidades [1.5h]
+  - Iterable, iterator, itertools [20min]
   
 **SESIÓN 02** (4hrs):
-  - Instalación, ambientes, terminales, paquetes, módulos, scripts.
-  - Proyecto 1: construyendo una librería de álgebra lineal
+  - Instalación, ambientes, terminales, paquetes, módulos, scripts. [30min]
+  - Demostración de configuración de entorno de trabajo [20min]
+  - Proyecto 1: construyendo una librería de álgebra lineal [3h]
 
 **SESIÓN 03** (6hrs):
-  - Lectura de archivos.
+  - Lectura de archivos. []
   - Persistencia y compresión de datos.
   - Concurrencia y paralelismo.
   - Proyecto 2: Manipulación concurrente y paralela de archivos.
