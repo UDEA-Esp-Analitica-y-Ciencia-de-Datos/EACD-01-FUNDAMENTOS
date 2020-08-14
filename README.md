@@ -18,29 +18,31 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   - Funciones 2.0 [15min]
   - Descansar [20min]
   - Programación orientada a objetos en Python [30min]
-  - Projecto 1: simulación para cálculo de probabilidades [1.5h]
+  - Taller 2: simulación para cálculo de probabilidades [1.5h]
   - Iterable, iterator, itertools [20min]
   
 **SESIÓN 02** (4hrs):
   - Instalación, ambientes, terminales, paquetes, módulos, scripts. [30min]
   - Demostración de configuración de entorno de trabajo [20min]
-  - Proyecto 1: construyendo una librería de álgebra lineal [3h]
+  - Taller 3: construyendo una librería de álgebra lineal [3h]
 
 **SESIÓN 03** (6hrs):
-  - Lectura de archivos. []
-  - Persistencia y compresión de datos.
-  - Concurrencia y paralelismo.
-  - Proyecto 2: Manipulación concurrente y paralela de archivos.
+  - Lectura y escritura de archivos. [20min]
+  - Concurrencia y paralelismo [1h].
+  - Descanso [30min]
+  - Taller 4: Manipulación concurrente y paralela de archivos [3h].
+  - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia [30min]
   
 **SESIÓN 04** (4hrs):
-  - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia
-  - Taller 2: implementación de una regresión lineal en Python
-  - Pandas: lectura y procesamiento de datos tabulares.
-  - Proyecto 3: Preparación de un dataset para Machine Learning
+  - Taller 5: implementación de una regresión lineal en Python [1h] 
+  - Descanso [15min]
+  - Pandas: lectura y procesamiento de datos tabulares. [1h]
+  - Taller 6: Preparación de un dataset para Machine Learning [1:30h]
   
 **SESIÓN 05** (6hrs):
-  - Matplotlib: visualización de datos 
-  - Proyecto 4: Análisis de la accidentalidad de Medellín
+  - Taller 7: Calculo de características temporales de un dataset [2h]
+  - Matplotlib: visualización de datos  [1h]
+  - Taller 7: Análisis de la accidentalidad de Medellín [3h]
 
 ## Criterios de evaluación
 
@@ -57,9 +59,7 @@ Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
 ## Entregas
 
-Tanto los talleres como los proyectos tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los proyectos podrán ser entregados hasta 2 días después de trabajados en clase. Los talleres solo pueden ser resueltos durante la clase y es por esto corresponden a un componente mínimo en la evaluación final del curso.
-
-Además, la formulación de los proyectos estará disponible antes del inicio de clase, esperando que esto de especial flexibilidad en el manejo del tiempo de los estudiantes.
+Los talleres tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los talleres podrán ser entregados hasta 2 días después de trabajados en clase. Además, la formulación de los talleres estará disponible antes del inicio de clase, esperando que esto de especial flexibilidad en el manejo del tiempo de los estudiantes.
 
 ## Referencias:
 - Programar en Python: [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=pd_bxgy_img_3/139-6103944-8306009?_encoding=UTF8&pd_rd_i=1491946008&pd_rd_r=68fa3836-cfa5-48e7-a573-dc837d1faf10&pd_rd_w=ajpng&pd_rd_wg=jljLn&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=B3EBWN4RVD9V4CM8EF88&psc=1&refRID=B3EBWN4RVD9V4CM8EF88)
