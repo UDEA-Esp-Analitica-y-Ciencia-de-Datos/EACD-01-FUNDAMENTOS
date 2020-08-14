@@ -1,0 +1,73 @@
+Pokemon, Number, Type1, Type2, Ability1, Ability2, Ability3, HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Sprite
+Chespin,650,GRASS,none,Overgrow,Bulletproof,none,56,61,65,48,45,38,https://play.pokemonshowdown.com/sprites/bw/chespin.png
+Quilladin,651,GRASS,none,Overgrow,Bulletproof,none,61,78,95,56,58,57,https://play.pokemonshowdown.com/sprites/bw/quilladin.png
+Chesnaught,652,GRASS,FIGHTING,Overgrow,Bulletproof,none,88,107,122,74,75,64,https://play.pokemonshowdown.com/sprites/bw/chesnaught.png
+Fennekin,653,FIRE,none,Blaze,Magician,none,40,45,40,62,60,60,https://play.pokemonshowdown.com/sprites/bw/fennekin.png
+Braixen,654,FIRE,none,Blaze,Magician,none,59,59,58,90,70,73,https://play.pokemonshowdown.com/sprites/bw/braixen.png
+Delphox,655,FIRE,PSYCHIC,Blaze,Magician,none,75,69,72,114,100,104,https://play.pokemonshowdown.com/sprites/bw/delphox.png
+Froakie,656,WATER,none,Torrent,Protean,none,41,56,40,62,44,71,https://play.pokemonshowdown.com/sprites/bw/froakie.png
+Frogadier,657,WATER,none,Torrent,Protean,none,54,63,52,83,56,97,https://play.pokemonshowdown.com/sprites/bw/frogadier.png
+Greninja,658,WATER,DARK,Torrent,Protean,Battle Bond,72,95,67,103,71,122,https://play.pokemonshowdown.com/sprites/bw/greninja.png
+Bunnelby,659,NORMAL,none,Pickup,Cheek Pouch,Huge Power,38,36,38,32,36,57,https://play.pokemonshowdown.com/sprites/bw/bunnelby.png
+Diggersby,660,NORMAL,GROUND,Pickup,Cheek Pouch,Huge Power,85,56,77,50,77,78,https://play.pokemonshowdown.com/sprites/bw/diggersby.png
+Fletchling,661,NORMAL,FLYING,Big Pecks,Gale Wings,none,45,50,43,40,38,62,https://play.pokemonshowdown.com/sprites/bw/fletchling.png
+Fletchinder,662,FIRE,FLYING,Flame Body,Gale Wings,none,62,73,55,56,52,84,https://play.pokemonshowdown.com/sprites/bw/fletchinder.png
+Talonflame,663,FIRE,FLYING,Flame Body,Gale Wings,none,78,81,71,74,69,126,https://play.pokemonshowdown.com/sprites/bw/talonflame.png
+Scatterbug,664,BUG,none,Shield Dust,Compound Eyes,Friend Guard,38,35,40,27,25,35,https://play.pokemonshowdown.com/sprites/bw/scatterbug.png
+Spewpa,665,BUG,none,Shed Skin,Friend Guard,none,45,22,60,27,30,29,https://play.pokemonshowdown.com/sprites/bw/spewpa.png
+Vivillon,666,BUG,FLYING,Shield Dust,Compound Eyes,Friend Guard,80,52,50,90,50,89,https://play.pokemonshowdown.com/sprites/bw/vivillon.png
+Litleo,667,FIRE,NORMAL,Rivalry,Unnerve,Moxie,62,50,58,73,54,72,https://play.pokemonshowdown.com/sprites/bw/litleo.png
+Pyroar,668,FIRE,NORMAL,Rivalry,Unnerve,Moxie,86,68,72,109,66,106,https://play.pokemonshowdown.com/sprites/bw/pyroar.png
+Flabebe,669,FAIRY,none,Flower Veil,Symbiosis,none,44,38,39,61,79,42,https://play.pokemonshowdown.com/sprites/bw/flabebe.png
+Floette,670,FAIRY,none,Flower Veil,Symbiosis,none,54,45,47,75,98,52,https://play.pokemonshowdown.com/sprites/bw/floette.png
+Florges,671,FAIRY,none,Flower Veil,Symbiosis,none,78,65,68,112,154,75,https://play.pokemonshowdown.com/sprites/bw/florges.png
+Skiddo,672,GRASS,none,Sap Sipper,Grass Pelt,none,66,65,48,62,57,52,https://play.pokemonshowdown.com/sprites/bw/skiddo.png
+Gogoat,673,GRASS,none,Sap Sipper,Grass Pelt,none,123,100,62,97,81,68,https://play.pokemonshowdown.com/sprites/bw/gogoat.png
+Pancham,674,FIGHTING,none,Iron Fist,Mold Breaker,Scrappy,67,82,62,46,48,43,https://play.pokemonshowdown.com/sprites/bw/pancham.png
+Pangoro,675,FIGHTING,DARK,Iron Fist,Mold Breaker,Scrappy,95,124,78,69,71,58,https://play.pokemonshowdown.com/sprites/bw/pangoro.png
+Furfrou,676,NORMAL,none,Fur Coat,none,none,75,80,60,65,90,102,https://play.pokemonshowdown.com/sprites/bw/furfrou.png
+Espurr,677,PSYCHIC,none,Keen Eye,Infiltrator,Own Tempo,62,48,54,63,60,68,https://play.pokemonshowdown.com/sprites/bw/espurr.png
+Meowstic,678,PSYCHIC,none,Keen Eye,Infiltrator,Prankster,74,48,76,83,81,104,https://play.pokemonshowdown.com/sprites/bw/meowstic.png
+Honedge,679,STEEL,GHOST,No Guard,none,none,45,80,100,35,37,28,https://play.pokemonshowdown.com/sprites/bw/honedge.png
+Doublade,680,STEEL,GHOST,No Guard,none,none,59,110,150,45,49,35,https://play.pokemonshowdown.com/sprites/bw/doublade.png
+Aegislash,681,STEEL,GHOST,Stance Change,none,none,60,50,150,50,150,60,https://play.pokemonshowdown.com/sprites/bw/aegislash.png
+Spritzee,682,FAIRY,none,Healer,Aroma Veil,none,78,52,60,63,65,23,https://play.pokemonshowdown.com/sprites/bw/spritzee.png
+Aromatisse,683,FAIRY,none,Healer,Aroma Veil,none,101,72,72,99,89,29,https://play.pokemonshowdown.com/sprites/bw/aromatisse.png
+Swirlix,684,FAIRY,none,Sweet Veil,Unburden,none,62,48,66,59,57,49,https://play.pokemonshowdown.com/sprites/bw/swirlix.png
+Slurpuff,685,FAIRY,none,Sweet Veil,Unburden,none,82,80,86,85,75,72,https://play.pokemonshowdown.com/sprites/bw/slurpuff.png
+Inkay,686,DARK,PSYCHIC,Contrary,Suction Cups,Infiltrator,53,54,53,37,46,45,https://play.pokemonshowdown.com/sprites/bw/inkay.png
+Malamar,687,DARK,PSYCHIC,Contrary,Suction Cups,Infiltrator,86,92,88,68,75,73,https://play.pokemonshowdown.com/sprites/bw/malamar.png
+Binacle,688,ROCK,WATER,Tough Claws,Sniper,Pickpocket,42,52,67,39,56,50,https://play.pokemonshowdown.com/sprites/bw/binacle.png
+Barbaracle,689,ROCK,WATER,Tough Claws,Sniper,Pickpocket,72,105,115,54,86,68,https://play.pokemonshowdown.com/sprites/bw/barbaracle.png
+Skrelp,690,POISON,WATER,Poison Point,Poison Touch,Adaptability,50,60,60,60,60,30,https://play.pokemonshowdown.com/sprites/bw/skrelp.png
+Dragalge,691,POISON,DRAGON,Poison Point,Poison Touch,Adaptability,65,75,90,97,123,44,https://play.pokemonshowdown.com/sprites/bw/dragalge.png
+Clauncher,692,WATER,none,Mega Launcher,none,none,50,53,62,58,63,44,https://play.pokemonshowdown.com/sprites/bw/clauncher.png
+Clawitzer,693,WATER,none,Mega Launcher,none,none,71,73,88,120,89,59,https://play.pokemonshowdown.com/sprites/bw/clawitzer.png
+Helioptile,694,ELECTRIC,NORMAL,Dry Skin,Sand Veil,Solar Power,44,38,33,61,43,70,https://play.pokemonshowdown.com/sprites/bw/helioptile.png
+Heliolisk,695,ELECTRIC,NORMAL,Dry Skin,Sand Veil,Solar Power,62,55,52,109,94,109,https://play.pokemonshowdown.com/sprites/bw/heliolisk.png
+Tyrunt,696,ROCK,DRAGON,Strong Jaw,Sturdy,none,58,89,77,45,45,48,https://play.pokemonshowdown.com/sprites/bw/tyrunt.png
+Tyrantrum,697,ROCK,DRAGON,Strong Jaw,Rock Head,none,82,121,119,69,59,71,https://play.pokemonshowdown.com/sprites/bw/tyrantrum.png
+Amaura,698,ROCK,ICE,Refrigerate,Snow Warning,none,77,59,50,67,63,46,https://play.pokemonshowdown.com/sprites/bw/amaura.png
+Aurorus,699,ROCK,ICE,Refrigerate,Snow Warning,none,123,77,72,99,92,58,https://play.pokemonshowdown.com/sprites/bw/aurorus.png
+Sylveon,700,FAIRY,none,Cute Charm,Pixilate,none,95,65,65,110,130,60,https://play.pokemonshowdown.com/sprites/bw/sylveon.png
+Hawlucha,701,FIGHTING,FLYING,Limber,Unburden,Mold Breaker,78,92,75,74,63,118,https://play.pokemonshowdown.com/sprites/bw/hawlucha.png
+Dedenne,702,ELECTRIC,FAIRY,Cheek Pouch,Pickup,Plus,67,58,57,81,67,101,https://play.pokemonshowdown.com/sprites/bw/dedenne.png
+Carbink,703,ROCK,FAIRY,Clear Body,Sturdy,none,50,50,150,50,150,50,https://play.pokemonshowdown.com/sprites/bw/carbink.png
+Goomy,704,DRAGON,none,Sap Sipper,Hydration,Gooey,45,50,35,55,75,40,https://play.pokemonshowdown.com/sprites/bw/goomy.png
+Sliggoo,705,DRAGON,none,Sap Sipper,Hydration,Gooey,68,75,53,83,113,60,https://play.pokemonshowdown.com/sprites/bw/sliggoo.png
+Goodra,706,DRAGON,none,Sap Sipper,Hydration,Gooey,90,100,70,110,150,80,https://play.pokemonshowdown.com/sprites/bw/goodra.png
+Klefki,707,STEEL,FAIRY,Prankster,Magician,none,57,80,91,80,87,75,https://play.pokemonshowdown.com/sprites/bw/klefki.png
+Phantump,708,GHOST,GRASS,Natural Cure,Frisk,Harvest,43,70,48,50,60,38,https://play.pokemonshowdown.com/sprites/bw/phantump.png
+Trevenant,709,GHOST,GRASS,Natural Cure,Frisk,Harvest,85,110,76,65,82,56,https://play.pokemonshowdown.com/sprites/bw/trevenant.png
+Pumpkaboo,710,GHOST,GRASS,Pickup,Frisk,Insomnia,49,66,70,44,55,51,https://play.pokemonshowdown.com/sprites/bw/pumpkaboo.png
+Gourgeist,711,GHOST,GRASS,Pickup,Frisk,Insomnia,65,90,122,58,75,84,https://play.pokemonshowdown.com/sprites/bw/gourgeist.png
+Bergmite,712,ICE,none,Own Tempo,Ice Body,Sturdy,55,69,85,32,35,28,https://play.pokemonshowdown.com/sprites/bw/bergmite.png
+Avalugg,713,ICE,none,Own Tempo,Ice Body,Sturdy,95,117,184,44,46,28,https://play.pokemonshowdown.com/sprites/bw/avalugg.png
+Noibat,714,FLYING,DRAGON,Frisk,Infiltrator,Telepathy,40,30,35,45,40,55,https://play.pokemonshowdown.com/sprites/bw/noibat.png
+Noivern,715,FLYING,DRAGON,Frisk,Infiltrator,Telepathy,85,70,80,97,80,123,https://play.pokemonshowdown.com/sprites/bw/noivern.png
+Xerneas,716,FAIRY,none,Fairy Aura,none,none,126,131,95,131,98,99,https://play.pokemonshowdown.com/sprites/bw/xerneas.png
+Yveltal,717,DARK,FLYING,Dark Aura,none,none,126,131,95,131,98,99,https://play.pokemonshowdown.com/sprites/bw/yveltal.png
+Zygarde,718,DRAGON,GROUND,Aura Break,Power Construct,none,108,100,121,81,95,95,https://play.pokemonshowdown.com/sprites/bw/zygarde.png
+Diancie,719,ROCK,FAIRY,Clear Body,none,none,50,100,150,100,150,50,https://play.pokemonshowdown.com/sprites/bw/diancie.png
+Hoopa,720,PSYCHIC,GHOST,Magician,none,none,80,110,60,150,130,70,https://play.pokemonshowdown.com/sprites/bw/hoopa.png
+Volcanion,721,FIRE,WATER,Water Absorb,none,none,80,110,120,130,90,70,https://play.pokemonshowdown.com/sprites/bw/volcanion.png

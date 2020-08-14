@@ -30,13 +30,13 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   - Lectura y escritura de archivos. [20min]
   - Concurrencia y paralelismo [1h].
   - Descanso [30min]
-  - Taller 4: Manipulación concurrente y paralela de archivos [3h].
+  - Taller 4: descargando imágenes de manera concurrente [2h].
   - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia [30min]
+  - Taller 5: implementación de una regresión lineal en Python [1h] 
   
 **SESIÓN 04** (4hrs):
-  - Taller 5: implementación de una regresión lineal en Python [1h] 
-  - Descanso [15min]
   - Pandas: lectura y procesamiento de datos tabulares. [1h]
+  - Descanso [30min]
   - Taller 6: Preparación de un dataset para Machine Learning [1:30h]
   
 **SESIÓN 05** (6hrs):
@@ -46,8 +46,7 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 
 ## Criterios de evaluación
 
-- **25%**: TALLERES, cada taller tendrá el mismo valor.
-- **75%**: PROYECTOS, cada proyecto tendrá el mismo valor.
+El porcentaje de evaluación de cada taller se encuentra en la lista y está dado deacuerdo al nivel de dificultad de cada uno. 
 
 En los talleres únicamente se revisará que el código cumpla su propósito, lo que implica que solo se revisará la respuesta que este entrega. En los proyectos se tendrá en cuenta la calidad de la solución, dando especial importancia a la claridad del trabajo realizado.
 

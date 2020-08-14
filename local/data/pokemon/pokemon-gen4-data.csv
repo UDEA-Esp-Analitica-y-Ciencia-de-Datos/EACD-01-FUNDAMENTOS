@@ -1,0 +1,108 @@
+Pokemon, Number, Type1, Type2, Ability1, Ability2, Ability3, HP, Attack, Defense, Sp. Atk, Sp. Def, Speed, Sprite
+Turtwig,387,GRASS,none,Overgrow,Shell Armor,none,55,68,64,45,55,31,https://play.pokemonshowdown.com/sprites/bw/turtwig.png
+Grotle,388,GRASS,none,Overgrow,Shell Armor,none,75,89,85,55,65,36,https://play.pokemonshowdown.com/sprites/bw/grotle.png
+Torterra,389,GRASS,GROUND,Overgrow,Shell Armor,none,95,109,105,75,85,56,https://play.pokemonshowdown.com/sprites/bw/torterra.png
+Chimchar,390,FIRE,none,Blaze,Iron Fist,none,44,58,44,58,44,61,https://play.pokemonshowdown.com/sprites/bw/chimchar.png
+Monferno,391,FIRE,FIGHTING,Blaze,Iron Fist,none,64,78,52,78,52,81,https://play.pokemonshowdown.com/sprites/bw/monferno.png
+Infernape,392,FIRE,FIGHTING,Blaze,Iron Fist,none,76,104,71,104,71,108,https://play.pokemonshowdown.com/sprites/bw/infernape.png
+Piplup,393,WATER,none,Torrent,Defiant,none,53,51,53,61,56,40,https://play.pokemonshowdown.com/sprites/bw/piplup.png
+Prinplup,394,WATER,none,Torrent,Defiant,none,64,66,68,81,76,50,https://play.pokemonshowdown.com/sprites/bw/prinplup.png
+Empoleon,395,WATER,STEEL,Torrent,Defiant,none,84,86,88,111,101,60,https://play.pokemonshowdown.com/sprites/bw/empoleon.png
+Starly,396,NORMAL,FLYING,Keen Eye,Reckless,none,40,55,30,30,30,60,https://play.pokemonshowdown.com/sprites/bw/starly.png
+Staravia,397,NORMAL,FLYING,Intimidate,Reckless,none,55,75,50,40,40,80,https://play.pokemonshowdown.com/sprites/bw/staravia.png
+Staraptor,398,NORMAL,FLYING,Intimidate,Reckless,none,85,120,70,50,60,100,https://play.pokemonshowdown.com/sprites/bw/staraptor.png
+Bidoof,399,NORMAL,none,Simple,Unaware,Moody,59,45,40,35,40,31,https://play.pokemonshowdown.com/sprites/bw/bidoof.png
+Bibarel,400,NORMAL,WATER,Simple,Unaware,Moody,79,85,60,55,60,71,https://play.pokemonshowdown.com/sprites/bw/bibarel.png
+Kricketot,401,BUG,none,Shed Skin,Run Away,none,37,25,41,25,41,25,https://play.pokemonshowdown.com/sprites/bw/kricketot.png
+Kricketune,402,BUG,none,Swarm,Technician,none,77,85,51,55,51,65,https://play.pokemonshowdown.com/sprites/bw/kricketune.png
+Shinx,403,ELECTRIC,none,Rivalry,Intimidate,Guts,45,65,34,40,34,45,https://play.pokemonshowdown.com/sprites/bw/shinx.png
+Luxio,404,ELECTRIC,none,Rivalry,Intimidate,Guts,60,85,49,60,49,60,https://play.pokemonshowdown.com/sprites/bw/luxio.png
+Luxray,405,ELECTRIC,none,Rivalry,Intimidate,Guts,80,120,79,95,79,70,https://play.pokemonshowdown.com/sprites/bw/luxray.png
+Budew,406,GRASS,POISON,Natural Cure,Poison Point,Leaf Guard,40,30,35,50,70,55,https://play.pokemonshowdown.com/sprites/bw/budew.png
+Roserade,407,GRASS,POISON,Natural Cure,Poison Point,Technician,60,70,65,125,105,90,https://play.pokemonshowdown.com/sprites/bw/roserade.png
+Cranidos,408,ROCK,none,Mold Breaker,Sheer Force,none,67,125,40,30,30,58,https://play.pokemonshowdown.com/sprites/bw/cranidos.png
+Rampardos,409,ROCK,none,Mold Breaker,Sheer Force,none,97,165,60,65,50,58,https://play.pokemonshowdown.com/sprites/bw/rampardos.png
+Shieldon,410,ROCK,STEEL,Sturdy,Soundproof,none,30,42,118,42,88,30,https://play.pokemonshowdown.com/sprites/bw/shieldon.png
+Bastiodon,411,ROCK,STEEL,Sturdy,Soundproof,none,60,52,168,47,138,30,https://play.pokemonshowdown.com/sprites/bw/bastiodon.png
+Burmy,412,BUG,none,Shed Skin,Overcoat,none,40,29,45,29,45,36,https://play.pokemonshowdown.com/sprites/bw/burmy.png
+Wormadam,413,BUG,GRASS,Anticipation,Overcoat,none,60,59,85,79,105,36,https://play.pokemonshowdown.com/sprites/bw/wormadam.png
+Mothim,414,BUG,FLYING,Swarm,Tinted Lens,none,70,94,50,94,50,66,https://play.pokemonshowdown.com/sprites/bw/mothim.png
+Combee,415,BUG,FLYING,Honey Gather,Hustle,none,30,30,42,30,42,70,https://play.pokemonshowdown.com/sprites/bw/combee.png
+Vespiquen,416,BUG,FLYING,Pressure,Unnerve,none,70,80,102,80,102,40,https://play.pokemonshowdown.com/sprites/bw/vespiquen.png
+Pachirisu,417,ELECTRIC,none,Run Away,Pickup,Volt Absorb,60,45,70,45,90,95,https://play.pokemonshowdown.com/sprites/bw/pachirisu.png
+Buizel,418,WATER,none,Swift Swim,Water Veil,none,55,65,35,60,30,85,https://play.pokemonshowdown.com/sprites/bw/buizel.png
+Floatzel,419,WATER,none,Swift Swim,Water Veil,none,85,105,55,85,50,115,https://play.pokemonshowdown.com/sprites/bw/floatzel.png
+Cherubi,420,GRASS,none,Chlorophyll,none,none,45,35,45,62,53,35,https://play.pokemonshowdown.com/sprites/bw/cherubi.png
+Cherrim,421,GRASS,none,Flower Gift,none,none,70,60,70,87,78,85,https://play.pokemonshowdown.com/sprites/bw/cherrim.png
+Shellos,422,WATER,none,Sticky Hold,Storm Drain,Sand Force,76,48,48,57,62,34,https://play.pokemonshowdown.com/sprites/bw/shellos.png
+Gastrodon,423,WATER,GROUND,Sticky Hold,Storm Drain,Sand Force,111,83,68,92,82,39,https://play.pokemonshowdown.com/sprites/bw/gastrodon.png
+Ambipom,424,NORMAL,none,Technician,Pickup,Skill Link,75,100,66,60,66,115,https://play.pokemonshowdown.com/sprites/bw/ambipom.png
+Drifloon,425,GHOST,FLYING,Aftermath,Unburden,Flare Boost,90,50,34,60,44,70,https://play.pokemonshowdown.com/sprites/bw/drifloon.png
+Drifblim,426,GHOST,FLYING,Aftermath,Unburden,Flare Boost,150,80,44,90,54,80,https://play.pokemonshowdown.com/sprites/bw/drifblim.png
+Buneary,427,NORMAL,none,Run Away,Klutz,Limber,55,66,44,44,56,85,https://play.pokemonshowdown.com/sprites/bw/buneary.png
+Lopunny,428,NORMAL,none,Cute Charm,Klutz,Limber,65,76,84,54,96,105,https://play.pokemonshowdown.com/sprites/bw/lopunny.png
+Mismagius,429,GHOST,none,Levitate,none,none,60,60,60,105,105,105,https://play.pokemonshowdown.com/sprites/bw/mismagius.png
+Honchkrow,430,DARK,FLYING,Insomnia,Super Luck,Moxie,100,125,52,105,52,71,https://play.pokemonshowdown.com/sprites/bw/honchkrow.png
+Glameow,431,NORMAL,none,Limber,Own Tempo,Keen Eye,49,55,42,42,37,85,https://play.pokemonshowdown.com/sprites/bw/glameow.png
+Purugly,432,NORMAL,none,Thick Fat,Own Tempo,Defiant,71,82,64,64,59,112,https://play.pokemonshowdown.com/sprites/bw/purugly.png
+Chingling,433,PSYCHIC,none,Levitate,none,none,45,30,50,65,50,45,https://play.pokemonshowdown.com/sprites/bw/chingling.png
+Stunky,434,POISON,DARK,Stench,Aftermath,Keen Eye,63,63,47,41,41,74,https://play.pokemonshowdown.com/sprites/bw/stunky.png
+Skuntank,435,POISON,DARK,Stench,Aftermath,Keen Eye,103,93,67,71,61,84,https://play.pokemonshowdown.com/sprites/bw/skuntank.png
+Bronzor,436,STEEL,PSYCHIC,Levitate,Heatproof,Heavy Metal,57,24,86,24,86,23,https://play.pokemonshowdown.com/sprites/bw/bronzor.png
+Bronzong,437,STEEL,PSYCHIC,Levitate,Heatproof,Heavy Metal,67,89,116,79,116,33,https://play.pokemonshowdown.com/sprites/bw/bronzong.png
+Bonsly,438,ROCK,none,Sturdy,Rock Head,Rattled,50,80,95,10,45,10,https://play.pokemonshowdown.com/sprites/bw/bonsly.png
+Mime Jr.,439,PSYCHIC,FAIRY,Soundproof,Filter,Technician,20,25,45,70,90,60,https://play.pokemonshowdown.com/sprites/bw/mimejr.png
+Happiny,440,NORMAL,none,Natural Cure,Serene Grace,Friend Guard,100,5,5,15,65,30,https://play.pokemonshowdown.com/sprites/bw/happiny.png
+Chatot,441,NORMAL,FLYING,Keen Eye,Tangled Feet,Big Pecks,76,65,45,92,42,91,https://play.pokemonshowdown.com/sprites/bw/chatot.png
+Spiritomb,442,GHOST,DARK,Pressure,Infiltrator,none,50,92,108,92,108,35,https://play.pokemonshowdown.com/sprites/bw/spiritomb.png
+Gible,443,DRAGON,GROUND,Sand Veil,Rough Skin,none,58,70,45,40,45,42,https://play.pokemonshowdown.com/sprites/bw/gible.png
+Gabite,444,DRAGON,GROUND,Sand Veil,Rough Skin,none,68,90,65,50,55,82,https://play.pokemonshowdown.com/sprites/bw/gabite.png
+Garchomp,445,DRAGON,GROUND,Sand Veil,Rough Skin,none,108,130,95,80,85,102,https://play.pokemonshowdown.com/sprites/bw/garchomp.png
+Munchlax,446,NORMAL,none,Pickup,Thick Fat,Gluttony,135,85,40,40,85,5,https://play.pokemonshowdown.com/sprites/bw/munchlax.png
+Riolu,447,FIGHTING,none,Steadfast,Inner Focus,Prankster,40,70,40,35,40,60,https://play.pokemonshowdown.com/sprites/bw/riolu.png
+Lucario,448,FIGHTING,STEEL,Steadfast,Inner Focus,Justified,70,110,70,115,70,90,https://play.pokemonshowdown.com/sprites/bw/lucario.png
+Hippopotas,449,GROUND,none,Sand Stream,Sand Force,none,68,72,78,38,42,32,https://play.pokemonshowdown.com/sprites/bw/hippopotas.png
+Hippowdon,450,GROUND,none,Sand Stream,Sand Force,none,108,112,118,68,72,47,https://play.pokemonshowdown.com/sprites/bw/hippowdon.png
+Skorupi,451,POISON,BUG,Battle Armor,Sniper,Keen Eye,40,50,90,30,55,65,https://play.pokemonshowdown.com/sprites/bw/skorupi.png
+Drapion,452,POISON,DARK,Battle Armor,Sniper,Keen Eye,70,90,110,60,75,95,https://play.pokemonshowdown.com/sprites/bw/drapion.png
+Croagunk,453,POISON,FIGHTING,Anticipation,Dry Skin,Poison Touch,48,61,40,61,40,50,https://play.pokemonshowdown.com/sprites/bw/croagunk.png
+Toxicroak,454,POISON,FIGHTING,Anticipation,Dry Skin,Poison Touch,83,106,65,86,65,85,https://play.pokemonshowdown.com/sprites/bw/toxicroak.png
+Carnivine,455,GRASS,none,Levitate,none,none,74,100,72,90,72,46,https://play.pokemonshowdown.com/sprites/bw/carnivine.png
+Finneon,456,WATER,none,Swift Swim,Storm Drain,Water Veil,49,49,56,49,61,66,https://play.pokemonshowdown.com/sprites/bw/finneon.png
+Lumineon,457,WATER,none,Swift Swim,Storm Drain,Water Veil,69,69,76,69,86,91,https://play.pokemonshowdown.com/sprites/bw/lumineon.png
+Mantyke,458,WATER,FLYING,Swift Swim,Water Absorb,Water Veil,45,20,50,60,120,50,https://play.pokemonshowdown.com/sprites/bw/mantyke.png
+Snover,459,GRASS,ICE,Snow Warning,Soundproof,none,60,62,50,62,60,40,https://play.pokemonshowdown.com/sprites/bw/snover.png
+Abomasnow,460,GRASS,ICE,Snow Warning,Soundproof,none,90,92,75,92,85,60,https://play.pokemonshowdown.com/sprites/bw/abomasnow.png
+Weavile,461,DARK,ICE,Pressure,Pickpocket,none,70,120,65,45,85,125,https://play.pokemonshowdown.com/sprites/bw/weavile.png
+Magnezone,462,ELECTRIC,STEEL,Magnet Pull,Sturdy,Analytic,70,70,115,130,90,60,https://play.pokemonshowdown.com/sprites/bw/magnezone.png
+Lickilicky,463,NORMAL,none,Own Tempo,Oblivious,Cloud Nine,110,85,95,80,95,50,https://play.pokemonshowdown.com/sprites/bw/lickilicky.png
+Rhyperior,464,GROUND,ROCK,Lightning Rod,Solid Rock,Reckless,115,140,130,55,55,40,https://play.pokemonshowdown.com/sprites/bw/rhyperior.png
+Tangrowth,465,GRASS,none,Chlorophyll,Leaf Guard,Regenerator,100,100,125,110,50,50,https://play.pokemonshowdown.com/sprites/bw/tangrowth.png
+Electivire,466,ELECTRIC,none,Motor Drive,Vital Spirit,none,75,123,67,95,85,95,https://play.pokemonshowdown.com/sprites/bw/electivire.png
+Magmortar,467,FIRE,none,Flame Body,Vital Spirit,none,75,95,67,125,95,83,https://play.pokemonshowdown.com/sprites/bw/magmortar.png
+Togekiss,468,FAIRY,FLYING,Hustle,Serene Grace,Super Luck,85,50,95,120,115,80,https://play.pokemonshowdown.com/sprites/bw/togekiss.png
+Yanmega,469,BUG,FLYING,Speed Boost,Tinted Lens,Frisk,86,76,86,116,56,95,https://play.pokemonshowdown.com/sprites/bw/yanmega.png
+Leafeon,470,GRASS,none,Leaf Guard,Chlorophyll,none,65,110,130,60,65,95,https://play.pokemonshowdown.com/sprites/bw/leafeon.png
+Glaceon,471,ICE,none,Snow Cloak,Ice Body,none,65,60,110,130,95,65,https://play.pokemonshowdown.com/sprites/bw/glaceon.png
+Gliscor,472,GROUND,FLYING,Hyper Cutter,Sand Veil,Poison Heal,75,95,125,45,75,95,https://play.pokemonshowdown.com/sprites/bw/gliscor.png
+Mamoswine,473,ICE,GROUND,Oblivious,Snow Cloak,Thick Fat,110,130,80,70,60,80,https://play.pokemonshowdown.com/sprites/bw/mamoswine.png
+Porygon-Z,474,NORMAL,none,Adaptability,Download,Analytic,85,80,70,135,75,90,https://play.pokemonshowdown.com/sprites/bw/porygonz.png
+Gallade,475,PSYCHIC,FIGHTING,Steadfast,Justified,none,68,125,65,65,115,80,https://play.pokemonshowdown.com/sprites/bw/gallade.png
+Probopass,476,ROCK,STEEL,Sturdy,Magnet Pull,Sand Force,60,55,145,75,150,40,https://play.pokemonshowdown.com/sprites/bw/probopass.png
+Dusknoir,477,GHOST,none,Pressure,Frisk,none,45,100,135,65,135,45,https://play.pokemonshowdown.com/sprites/bw/dusknoir.png
+Froslass,478,ICE,GHOST,Snow Cloak,Cursed Body,none,70,80,70,80,70,110,https://play.pokemonshowdown.com/sprites/bw/froslass.png
+Rotom,479,ELECTRIC,GHOST,Levitate,none,none,50,50,77,95,77,91,https://play.pokemonshowdown.com/sprites/bw/rotom.png
+Uxie,480,PSYCHIC,none,Levitate,none,none,75,75,130,75,130,95,https://play.pokemonshowdown.com/sprites/bw/uxie.png
+Mesprit,481,PSYCHIC,none,Levitate,none,none,80,105,105,105,105,80,https://play.pokemonshowdown.com/sprites/bw/mesprit.png
+Azelf,482,PSYCHIC,none,Levitate,none,none,75,125,70,125,70,115,https://play.pokemonshowdown.com/sprites/bw/azelf.png
+Dialga,483,STEEL,DRAGON,Pressure,Telepathy,none,100,120,120,150,100,90,https://play.pokemonshowdown.com/sprites/bw/dialga.png
+Palkia,484,WATER,DRAGON,Pressure,Telepathy,none,90,120,100,150,120,100,https://play.pokemonshowdown.com/sprites/bw/palkia.png
+Heatran,485,FIRE,STEEL,Flash Fire,Flame Body,none,91,90,106,130,106,77,https://play.pokemonshowdown.com/sprites/bw/heatran.png
+Regigigas,486,NORMAL,none,Slow Start,none,none,110,160,110,80,110,100,https://play.pokemonshowdown.com/sprites/bw/regigigas.png
+Giratina,487,GHOST,DRAGON,Pressure,Telepathy,none,150,100,120,100,120,90,https://play.pokemonshowdown.com/sprites/bw/giratina.png
+Cresselia,488,PSYCHIC,none,Levitate,none,none,120,70,120,75,130,85,https://play.pokemonshowdown.com/sprites/bw/cresselia.png
+Phione,489,WATER,none,Hydration,none,none,80,80,80,80,80,80,https://play.pokemonshowdown.com/sprites/bw/phione.png
+Manaphy,490,WATER,none,Hydration,none,none,100,100,100,100,100,100,https://play.pokemonshowdown.com/sprites/bw/manaphy.png
+Darkrai,491,DARK,none,Bad Dreams,none,none,70,90,90,135,90,125,https://play.pokemonshowdown.com/sprites/bw/darkrai.png
+Shaymin,492,GRASS,none,Natural Cure,none,none,100,100,100,100,100,100,https://play.pokemonshowdown.com/sprites/bw/shaymin.png
+Arceus,493,NORMAL,none,Multitype,none,none,120,120,120,120,120,120,https://play.pokemonshowdown.com/sprites/bw/arceus.png
