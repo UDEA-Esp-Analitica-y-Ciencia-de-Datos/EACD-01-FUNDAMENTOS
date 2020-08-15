@@ -1,4 +1,4 @@
-# Fundamentos de progamación para ciencia de datos
+# Fundamentos de programación para ciencia de datos
 
 ## Descripción del curso
 
