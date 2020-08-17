@@ -9,56 +9,56 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 ## Programación de sesiones
 
 **SESIÓN 01** (6hrs):
-  - Tipos de datos y operadores [15min]
-  - Estructuras de datos [10min]
-  - Control de flujo y ciclos [15min]
-  - Descansar [20min]
-  - Taller 1: ejercicios de algoritmia [1.5h]
-  - Funciones y lambdas [20min]
-  - Funciones 2.0 [15min]
-  - Descansar [20min]
-  - Programación orientada a objetos en Python [30min]
-  - Taller 2: simulación para cálculo de probabilidades [1.5h]
-  - Iterable, iterator, itertools [20min]
-  
-**SESIÓN 02** (4hrs):
-  - Instalación, ambientes, terminales, paquetes, módulos, scripts. [30min]
-  - Demostración de configuración de entorno de trabajo [20min]
-  - Taller 3: construyendo una librería de álgebra lineal [3h]
+  - Tipos de datos y operadores
+  - Estructuras de datos
+  - Control de flujo y ciclos
+  - Taller 1: ejercicios de algoritmia
+  - Funciones y lambdas
 
+**SESIÓN 02** (4hrs):
+  - Funciones 2.0
+  - Programación orientada a objetos en Python
+  - Iterable, iterator, itertools
+  - *Opcional*:[Simulaciones usando Python](./08 - [OPCIONAL] - Simulaciones usando Python.md) 
+  
 **SESIÓN 03** (6hrs):
-  - Lectura y escritura de archivos. [20min]
-  - Concurrencia y paralelismo [1h].
-  - Descanso [30min]
-  - Taller 4: descargando imágenes de manera concurrente [2h].
-  - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia [30min]
-  - Taller 5: implementación de una regresión lineal en Python [1h] 
+  - Instalación, ambientes, terminales, paquetes, módulos y scripts
+  - Demostración de configuración de entorno de trabajo
+  - Taller 3: construyendo una librería de álgebra lineal 
+  - Lectura y escritura de archivos
   
 **SESIÓN 04** (4hrs):
-  - Pandas: lectura y procesamiento de datos tabulares. [1h]
-  - Descanso [30min]
-  - Taller 6: Preparación de un dataset para Machine Learning [1:30h]
+  - Concurrencia y paralelismo
+  - Taller 4: descargando imágenes de manera concurrente
+  - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia
   
 **SESIÓN 05** (6hrs):
-  - Taller 7: Calculo de características temporales de un dataset [2h]
+  - Taller 5: ...
+  - Pandas: lectura y procesamiento de datos tabulares.
+  - Taller 6: ...
   - Matplotlib: visualización de datos  [1h]
-  - Taller 7: Análisis de la accidentalidad de Medellín [3h]
+  - Taller 7: ...
 
 ## Criterios de evaluación
 
 El porcentaje de evaluación de cada taller se encuentra en la lista y está dado deacuerdo al nivel de dificultad de cada uno. 
 
-En los talleres únicamente se revisará que el código cumpla su propósito, lo que implica que solo se revisará la respuesta que este entrega. En los proyectos se tendrá en cuenta la calidad de la solución, dando especial importancia a la claridad del trabajo realizado.
+En los talleres únicamente se revisará que el código cumpla su propósito, lo que implica que solo se revisará la respuesta que este entrega. También se tendrá en cuenta la calidad de la solución, dando especial importancia a la claridad del trabajo realizado.
 
 Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
 - Bonos por por cada contribución al material del curso. El aporte debe proponerse como un *pull request* intentando. Este bono tendrá un valor de un 1% adicional en la evaluación final del curso. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles. También pueden ser ejemplos a agregar al material que hayan surgido durante las sesiones.
-- Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *easy* tendrá un valor del 6% en la evaluación final del curso.
-- Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *intermediate*  tendrá un valor del 12% en la evaluación final del curso.
+- Bonos por soluciones a los talleres marcados como opcionales. Cada taller opcional tendrá un valor máximo del 5% del curso. 
+- Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *easy* tendrá un valor del 8% en la evaluación final del curso.
+- Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *intermediate*  tendrá un valor del 16% en la evaluación final del curso.
 
 ## Entregas
 
 Los talleres tendrán espacio suficiente para resolverse en las sesiones de clase, pero se darán plazos extra para adaptarnos a posibles imprevistos e inconvenientes por parte de los estudiantes. Los talleres podrán ser entregados hasta 2 días después de trabajados en clase. Además, la formulación de los talleres estará disponible antes del inicio de clase, esperando que esto de especial flexibilidad en el manejo del tiempo de los estudiantes.
+
+## Cuadro de honor
+
+Se creará un cuadro de honor con los estudiantes que tengan una participación excepcional en el curso, lo cual incluye, pero no está limitado a obtención de bonos mencionados anteriormente y ayuda a que otros compañeros tengan éxito en el curso. Este cuadro de honor será publico y se compartirá en distintos escenarios relevantes para el gremio.
 
 ## Referencias:
 - Programar en Python: [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=pd_bxgy_img_3/139-6103944-8306009?_encoding=UTF8&pd_rd_i=1491946008&pd_rd_r=68fa3836-cfa5-48e7-a573-dc837d1faf10&pd_rd_w=ajpng&pd_rd_wg=jljLn&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=B3EBWN4RVD9V4CM8EF88&psc=1&refRID=B3EBWN4RVD9V4CM8EF88)
