@@ -52,7 +52,7 @@ En los talleres únicamente se revisará que el código cumpla su propósito, lo
 
 Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
-- Bonos por por cada contribución al material del curso. Estos deben reportarse como *issues*  the github is su solución debe proponerse como un *pull request* intentando solucionar el *issue*  correspondiente. Este bono tendrá un valor de un 1% adicional en la evaluación final del curso. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles.
+- Bonos por por cada contribución al material del curso. El aporte debe proponerse como un *pull request* intentando. Este bono tendrá un valor de un 1% adicional en la evaluación final del curso. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles. También pueden ser ejemplos a agregar al material que hayan surgido durante las sesiones.
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *easy* tendrá un valor del 6% en la evaluación final del curso.
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *intermediate*  tendrá un valor del 12% en la evaluación final del curso.
 
