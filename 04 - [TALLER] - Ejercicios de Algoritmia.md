@@ -1,6 +1,6 @@
 # Ejercicios de algoritmia
 
-El objetivo de este taller es poner en práctica las habilidades básicas de programación utilizando Python. Cada Ejercicio tendrá un valor del 10% del presente taller. Los ejercicios se deben realizar y validar en la plataforma [Hackerrank](https://www.hackerrank.com/) utlizando Python 3.
+El objetivo de este taller es poner en práctica las habilidades básicas de programación utilizando Python. Cada Ejercicio tendrá un valor del 20% del presente taller. Los ejercicios se deben realizar y validar en la plataforma [Hackerrank](https://www.hackerrank.com/) utlizando Python 3.
 
 1. https://www.hackerrank.com/challenges/camelcase/problem
 2. https://www.hackerrank.com/challenges/strong-password/problem

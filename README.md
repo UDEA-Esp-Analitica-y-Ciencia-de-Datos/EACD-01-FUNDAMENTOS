@@ -1,4 +1,4 @@
-# Fundamentos de progamación para ciencia de datos
+# Fundamentos de programación para ciencia de datos
 
 ## Descripción del curso
 
@@ -52,7 +52,7 @@ En los talleres únicamente se revisará que el código cumpla su propósito, lo
 
 Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 
-- Bonos por por cada contribución al material del curso. Estos deben reportarse como *issues*  the github is su solución debe proponerse como un *pull request* intenando solucionar el *issue*  correspondiente. Este bono tendrá un valor de un 1% adicional en la evaluación final del curso. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles.
+- Bonos por por cada contribución al material del curso. Estos deben reportarse como *issues*  the github is su solución debe proponerse como un *pull request* intentando solucionar el *issue*  correspondiente. Este bono tendrá un valor de un 1% adicional en la evaluación final del curso. Los contribuciones pueden ser errores o elementos sin explicar que podrían ser útiles.
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *easy* tendrá un valor del 6% en la evaluación final del curso.
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *intermediate*  tendrá un valor del 12% en la evaluación final del curso.
 
@@ -65,4 +65,4 @@ Los talleres tendrán espacio suficiente para resolverse en las sesiones de clas
 - Librería estándar de Python: [The Python 3 Standard Library by Example](https://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0134291050/ref=pd_lpo_14_t_0/139-6103944-8306009?_encoding=UTF8&pd_rd_i=0134291050&pd_rd_r=aa5b71e8-17d2-487e-994f-ed88e19ceb0c&pd_rd_w=9p0cS&pd_rd_wg=y2QUS&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=WVDQSM5SPV06PXS4ZJY2&psc=1&refRID=WVDQSM5SPV06PXS4ZJY2)
 - Página con excelente contenido para aprender Python: [Real Python](https://realpython.com/)
 - Librerías básicas de ciencias de datos: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
-- Lógica de programación en general: [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) (se sugiere hacer los fáciles de cada tema, luego los intermiedios de cada tema y luego los difíciles de cada tema). 
+- Lógica de programación en general: [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) (se sugiere hacer los fáciles de cada tema, luego los intermedios de cada tema y luego los difíciles de cada tema). 
