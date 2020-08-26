@@ -20,18 +20,18 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   - Programación orientada a objetos en Python
   - Iterable, iterator, itertools
   - *Opcional*:[Simulaciones usando Python](./08 - [OPCIONAL] - Simulaciones usando Python.md) 
-  
+
 **SESIÓN 03** (6hrs):
   - Instalación, ambientes, terminales, paquetes, módulos y scripts
   - Demostración de configuración de entorno de trabajo
   - Taller 3: construyendo una librería de álgebra lineal 
   - Lectura y escritura de archivos
-  
+
 **SESIÓN 04** (4hrs):
   - Concurrencia y paralelismo
   - Taller 4: descargando imágenes de manera concurrente
   - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia
-  
+
 **SESIÓN 05** (6hrs):
   - Taller 5: ...
   - Pandas: lectura y procesamiento de datos tabulares.
@@ -59,6 +59,40 @@ Los talleres tendrán espacio suficiente para resolverse en las sesiones de clas
 ## Cuadro de honor
 
 Se creará un cuadro de honor con los estudiantes que tengan una participación excepcional en el curso, lo cual incluye, pero no está limitado a obtención de bonos mencionados anteriormente y ayuda a que otros compañeros tengan éxito en el curso. Este cuadro de honor será publico y se compartirá en distintos escenarios relevantes para el gremio.
+
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh"></th>
+    <th class="tg-nrix">Nombre</th>
+    <th class="tg-baqh">Enlaces</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" rowspan="3"><img src="./local/imgs/octocat.png" style="width:200px;"/></td>
+    <td class="tg-nrix" rowspan="3">octocat</td>
+    <td class="tg-baqh">enlace1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">enlace2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">enlace3</td>
+  </tr>
+</tbody>
+</table>
+
+
 
 ## Referencias:
 - Programar en Python: [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=pd_bxgy_img_3/139-6103944-8306009?_encoding=UTF8&pd_rd_i=1491946008&pd_rd_r=68fa3836-cfa5-48e7-a573-dc837d1faf10&pd_rd_w=ajpng&pd_rd_wg=jljLn&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=B3EBWN4RVD9V4CM8EF88&psc=1&refRID=B3EBWN4RVD9V4CM8EF88)
