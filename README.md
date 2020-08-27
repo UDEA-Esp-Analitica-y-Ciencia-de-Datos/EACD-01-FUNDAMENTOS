@@ -29,15 +29,13 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
 
 **SESIÓN 04** (4hrs):
   - Concurrencia y paralelismo
-  - Taller 4: descargando imágenes de manera concurrente
-  - Numpy: arreglos n-dimensionales, operaciones vectoriales y persistencia
-
+  - Taller 4: descarga concurrente de imágenes
+  
 **SESIÓN 05** (6hrs):
+  - Introducción a NumPy
+  - Introducción a Pandas
+  - Introducción a Matplotlib
   - Taller 5: ...
-  - Pandas: lectura y procesamiento de datos tabulares.
-  - Taller 6: ...
-  - Matplotlib: visualización de datos
-  - Taller 7: ...
 
 ## Criterios de evaluación
 
