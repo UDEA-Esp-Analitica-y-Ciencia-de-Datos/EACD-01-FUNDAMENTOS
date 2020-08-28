@@ -58,6 +58,38 @@ Los talleres tendrán espacio suficiente para resolverse en las sesiones de clas
 
 Se creará un cuadro de honor con los estudiantes que tengan una participación excepcional en el curso, lo cual incluye, pero no está limitado a obtención de bonos mencionados anteriormente y ayuda a que otros compañeros tengan éxito en el curso. Este cuadro de honor será publico y se compartirá en distintos escenarios relevantes para el gremio.
 
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#93a1a1;border-spacing:0;}
+.tg td{background-color:#fdf6e3;border-color:#93a1a1;border-style:solid;border-width:1px;color:#002b36;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg th{background-color:#657b83;border-color:#93a1a1;border-style:solid;border-width:1px;color:#fdf6e3;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
+.tg .tg-nrix{text-align:center;vertical-align:middle}
+</style>
+<table class="tg">
+<thead>
+  <tr>
+    <th class="tg-baqh"></th>
+    <th class="tg-nrix">Nombre</th>
+    <th class="tg-baqh">Enlaces</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-nrix" rowspan="3"><img src="./local/imgs/octocat.png" style="width:200px;"/></td>
+    <td class="tg-nrix" rowspan="3">octocat</td>
+    <td class="tg-baqh">enlace1</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">enlace2</td>
+  </tr>
+  <tr>
+    <td class="tg-baqh">enlace3</td>
+  </tr>
+</tbody>
+</table>
+
 ## Referencias:
 - Programar en Python: [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=pd_bxgy_img_3/139-6103944-8306009?_encoding=UTF8&pd_rd_i=1491946008&pd_rd_r=68fa3836-cfa5-48e7-a573-dc837d1faf10&pd_rd_w=ajpng&pd_rd_wg=jljLn&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=B3EBWN4RVD9V4CM8EF88&psc=1&refRID=B3EBWN4RVD9V4CM8EF88)
 - Librería estándar de Python: [The Python 3 Standard Library by Example](https://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0134291050/ref=pd_lpo_14_t_0/139-6103944-8306009?_encoding=UTF8&pd_rd_i=0134291050&pd_rd_r=aa5b71e8-17d2-487e-994f-ed88e19ceb0c&pd_rd_w=9p0cS&pd_rd_wg=y2QUS&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=WVDQSM5SPV06PXS4ZJY2&psc=1&refRID=WVDQSM5SPV06PXS4ZJY2)
