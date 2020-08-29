@@ -33,7 +33,9 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   
 **SESIÓN 05** (6hrs):
   - Introducción a NumPy
+  - Ejemplos de NumPy
   - Introducción a Pandas
+  - Ejemplos de Pandas
   - Introducción a Matplotlib
   - Taller 5: ...
 
