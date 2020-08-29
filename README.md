@@ -51,6 +51,7 @@ Finalmente, se tendrán bonos adicionales para agregar en cualquier evaluación:
 - Bonos por soluciones a los talleres marcados como opcionales. Cada taller opcional tendrá un valor máximo del 5% del curso. 
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *easy* tendrá un valor del 8% en la evaluación final del curso.
 - Bono por resolver ejercicios de [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit). Resolver todos los ejercicios de nivel *intermediate*  tendrá un valor del 16% en la evaluación final del curso.
+- Para a quellos que tarden más de 30 días en entregar una tarea, deberá entregarla adjuntando un soporte que demuestre terminación satisfactoria del [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code) de Hackerrank.
 
 ## Entregas
 
