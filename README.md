@@ -81,7 +81,7 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
     <sub><b>Julian Eusse</b></sub></a><br />
     <a href="https://github.com/jeussej"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
     <a href="https://www.linkedin.com/in/julian-andres-eusse-jaramillo-104547165/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
-    <a href="jeussej@gmail.com"><img src="https://cdn1.iconfinder.com/data/icons/color-bold-style/21/41-512.png" width="18px;" alt="" >
+    <a href="jeussej@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
     </td>
     <td align="center"><img src="images/foto.jpg" width="150px;" alt=""/><br />
     <sub><b>Julian Eusse</b></sub></a><br />
