@@ -99,7 +99,7 @@ crossorigin="anonymous"
 
   <div class="col">
       <div class="card" style="width: 15rem">
-          <img src="images/foto.jpg" class="card-img-top" alt="..." width="40" height="300" />
+          <img src="images/foto.jpg" class="card-img-top" alt="..." width="40" height="30" />
           <div class="card-body">
               <h5 class="card-title">Julian Eusse</h5>                       
               <div class="container" >
