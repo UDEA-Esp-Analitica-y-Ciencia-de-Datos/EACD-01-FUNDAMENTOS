@@ -77,8 +77,8 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
 
 <table>
   <tr>
-    <td align="center"><img src="images/foto.jpg" width="150px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej"><img src="images/Marcela.JPG" width="10px;" alt="" ></td>
-    <td align="center"><img src="images/Marcela.JPG" width="150px;" alt=""/><br /><sub><b>Marcela</b></sub></a><br /><a href="https://github.com/jeussej"><img src="images/foto.jpg" width="10px;" alt="" ></td>
+    <td align="center"><img src="images/foto.jpg" width="150px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej"><img src="images/Marcela.JPG" width="15px;" alt="" ></td>
+    <td align="center"><img src="images/Marcela.JPG" width="150px;" alt=""/><br /><sub><b>Marcela</b></sub></a><br /><a href="https://github.com/jeussej"><img src="images/foto.jpg" width="15px;" alt="" ></td>
     
     </tr>
 
