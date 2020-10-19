@@ -123,7 +123,7 @@ crossorigin="anonymous"
 
   <div class="col">
       <div class="card" style="width: 15rem">
-          <img src="images/72226583_10217324853005911_2627347781202739200_o - Santiago Jaramillo González.jpg" class="card-img-top" alt="..."  width="480" height="300" />
+          <img src="images/72226583_10217324853005911_2627347781202739200_o - Santiago Jaramillo González.jpg" class="card-img-top" alt="..."  width="300" height="250" />
           <div class="card-body">
               <h5 class="card-title">Santiago Jaramillo</h5>                       
               <div class="container" >
