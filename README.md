@@ -69,6 +69,8 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
 - Página con excelente contenido para aprender Python: [Real Python](https://realpython.com/)
 - Librerías básicas de ciencias de datos: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Lógica de programación en general: [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) (se sugiere hacer los fáciles de cada tema, luego los intermedios de cada tema y luego los difíciles de cada tema). 
+
+
 <link
         rel="stylesheet"
         href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
@@ -81,5 +83,5 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
         integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
         crossorigin="anonymous"
         />
-        
-<td align="center"><a href="https://sinchang.me"><img src="images/foto.jpg" width="100px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej" class="h1"><i class="fab fa-github-square"></i></a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td>
+
+<td align="center"><a href="https://sinchang.me"><img src="" width="100px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej" class="h1"><i class="fab fa-github-square"></i></a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td>
