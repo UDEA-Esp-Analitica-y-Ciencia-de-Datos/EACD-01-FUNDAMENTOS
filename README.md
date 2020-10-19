@@ -84,4 +84,5 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
         crossorigin="anonymous"
         />
 
-<td align="center"><a href="https://sinchang.me"><img src="" width="100px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej" class="h1"><i class="fab fa-github-square"></i></a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td>
+<td align="center"><a href="https://sinchang.me"><img src="images/foto.jpg" width="100px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej" class="h1"><i class="fab fa-github-square"></i></a>
+ <!-- <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td> -->
