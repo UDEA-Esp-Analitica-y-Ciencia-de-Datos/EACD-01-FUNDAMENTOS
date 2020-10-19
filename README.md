@@ -95,13 +95,23 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
     <a href="https://www.linkedin.com/in/danilo-diaz/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
     <a href="ddiazva13@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
     </td>
+    <td align="center"><img src="images/Marcela.JPG" width="150px;" alt=""/><br />
+    <sub><b>Marcela Andrea Castrillon</b></sub></a><br />
+    <a href="https://github.com/andreacastrillon"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/andrea-castrillon-buitrago-232808145/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="andreitacastrillon92@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
     </tr>
+  <tr>  
+  <td align="center"><img src="images/download - Desarrollo 2 Gestión Informatica Universidad de Antioquia.png" width="150px;" alt=""/><br />
+    <sub><b>Edward Nicolas Montoya</b></sub></a><br />
+    <a href="https://github.com/nicolasmontoya"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/nicolas-montoya/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="edward.montoya@udea.edu.co"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
 
 
-  <tr>    
-    <td align="center"><a href="https://sinchang.me"><img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt=""/><br /><sub><b>Jeff Wen</b></sub></a><br /><a href="#maintenance-sinchang" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td>
-    <td align="center"><a href="http://maxcubing.wordpress.com"><img src="https://avatars0.githubusercontent.com/u/8260834?v=4" width="100px;" alt=""/><br /><sub><b>Maximilian Berkmann</b></sub></a><br /><a href="#translation-Berkmann18" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=Berkmann18" title="Documentation">📖</a> <a href="#maintenance-Berkmann18" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3ABerkmann18" title="Reviewed Pull Requests">👀</a> <a href="#talk-Berkmann18" title="Talks">📢</a></td>
-    <td align="center"><a href="http://matheu.srv.br"><img src="https://avatars0.githubusercontent.com/u/23284276?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Rocha Vieira</b></sub></a><br /><a href="#translation-MatheusRV" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Code">💻</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Documentation">📖</a></td>  
-    <td align="center"><a href="https://robertlluberes.com"><img src="https://avatars1.githubusercontent.com/u/13991439?v=4" width="100px;" alt=""/><br /><sub><b>Robert Lluberes</b></sub></a><br /><a href="#translation-robertlluberes" title="Translation">🌍</a></td>
+    </tr>  
+    
 </table>
 
