@@ -80,7 +80,7 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
     <td align="center"><img src="images/foto.jpg" width="150px;" alt=""/><br />
     <sub><b>Julian Eusse</b></sub></a><br />
     <a href="https://github.com/jeussej"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
-    <a href="https://github.com/jeussej"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://github.com/jeussej"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
     <a href="https://github.com/jeussej"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" ></td>
     <td align="center"><img src="images/hola.jpg" width="150px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej"><img src="images/hola.JPG" width="15px;" alt="" ></td>
     <td align="center"><img src="images/72226583_10217324853005911_2627347781202739200_o - Santiago Jaramillo González.jpg" width="150px;" alt=""/><br /><sub><b>Santi</b></sub></a><br /><a href="https://github.com/jeussej"><img src="images/foto.jpg" width="15px;" alt="" ></td>
