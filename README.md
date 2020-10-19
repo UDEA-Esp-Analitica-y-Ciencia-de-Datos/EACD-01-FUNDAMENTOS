@@ -71,222 +71,35 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
 - Lógica de programación en general: [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) (se sugiere hacer los fáciles de cada tema, luego los intermedios de cada tema y luego los difíciles de cada tema). 
 
 
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>Cuandro de honor</title>
-<link
-rel="stylesheet"
-href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
-integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
-crossorigin="anonymous"
-/>
-<link
-rel="stylesheet"
-href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css"
-integrity="sha384-AYmEC3Yw5cVb3ZcuHtOA93w35dYTsvhLPVnYs9eStHfGJvOvKxVfELGroGkvsg+p"
-crossorigin="anonymous"
-/>
-</head>
-<body>
-<div class="container-xl" >
-<div class="row">
-
-
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/foto.jpg" class="card-img-top" alt="..." width="300" height="250" />
-          <div class="card-body">
-              <h5 class="card-title">Julian Eusse</h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/jeussej" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/julian-andres-eusse-jaramillo-104547165/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="jeussej@gmail.com" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/72226583_10217324853005911_2627347781202739200_o - Santiago Jaramillo González.jpg" class="card-img-top" alt="..."  width="300" height="250" />
-          <div class="card-body">
-              <h5 class="card-title">Santiago Jaramillo</h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/santyjara" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/santiago-jaramillo-gonzalez/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="san_jara@outlook.com" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/Foto_perfil - danilo diaz.jpg" class="card-img-top" alt="..."  width="400" height="300" />
-          <div class="card-body">
-              <h5 class="card-title">Danilo Diaz</h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/NILodio" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/danilo-diaz/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="ddiazva13@gmail.com" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/Marcela.JPG" class="card-img-top" alt="..."  width="480" height="300"/>
-          <div class="card-body">
-              <h5 class="card-title">Marcela Andrea Castrillon </h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/andreacastrillon" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/andrea-castrillon-buitrago-232808145/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="andreitacastrillon92@gmail.com" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/download - Desarrollo 2 Gestión Informatica Universidad de Antioquia.png" class="card-img-top" alt="..."  width="480" height="300" />
-          <div class="card-body">
-              <h5 class="card-title">Edward Nicolas Montoya</h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/nicolasmontoya" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/nicolas-montoya/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="edward.montoya@udea.edu.co" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/AlbertoCeballos - Alberto Mario Ceballos Arroyo.jpg" class="card-img-top" alt="..."  width="480" height="300" />
-          <div class="card-body">
-              <h5 class="card-title">Alberto Mario Ceballos</h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/alceballosa" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/alberto-mario-ceballos-arroyo-68120913a/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="albertom.ceballos@udea.edu.co" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/c02a26e8-bd23-4c66-8f70-3e9b91707fe5 - ÓSCAR ANDRÉS ZAPATA RIVERA.jpg" class="card-img-top" alt="..."  width="480" height="300" />
-          <div class="card-body">
-              <h5 class="card-title">Oscar Andres Zapata</h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/andreszr" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/oscar-zapata/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="oandreszr@gmail.com" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-
-  <div class="col">
-      <div class="card" style="width: 15rem">
-          <img src="images/IMG_20200531_132026 - copia - Adrian Jimenez.jpg" class="card-img-top" alt="..."  width="480" height="300" />
-          <div class="card-body">
-              <h5 class="card-title">Adrian Yair Jimenez</h5>                       
-              <div class="container" >
-                  <div class="row">    
-                      <div class="col">
-                          <a href="https://github.com/adrianx30" class="h1"><i class="fab fa-github-square"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="https://www.linkedin.com/in/ajimenezc30/" class="h1"><i class="fab fa-linkedin"></i></a>
-                      </div>
-                      <div class="col">
-                          <a href="adrianx30@gmail.com" class="h1"><i class="fas fa-envelope-square"></i></a>
-                      </div>
-                  </div>
-              </div>
-          </div>  
-      </div>
-  </div>
-
-
-  
-
-
-  
-
-</div>
-</div>
-</body>
-</html>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://kentcdodds.com"><img src="https://avatars.githubusercontent.com/u/1500684?v=3" width="100px;" alt=""/><br /><sub><b>Kent C. Dodds</b></sub></a><br /><a href="#question-kentcdodds" title="Answering Questions">💬</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=kentcdodds" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Akentcdodds" title="Reviewed Pull Requests">👀</a> <a href="#talk-kentcdodds" title="Talks">📢</a></td>
+    <td align="center"><a href="https://github.com/jfmengels"><img src="https://avatars.githubusercontent.com/u/3869412?v=3" width="100px;" alt=""/><br /><sub><b>Jeroen Engels</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jfmengels" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajfmengels" title="Reviewed Pull Requests">👀</a> <a href="#tool-jfmengels" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://jakebolam.com"><img src="https://avatars2.githubusercontent.com/u/3534236?v=4" width="100px;" alt=""/><br /><sub><b>Jake Bolam</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=jakebolam" title="Documentation">📖</a> <a href="#tool-jakebolam" title="Tools">🔧</a> <a href="#infra-jakebolam" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="#maintenance-jakebolam" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Ajakebolam" title="Reviewed Pull Requests">👀</a> <a href="#question-jakebolam" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://github.com/tbenning"><img src="https://avatars2.githubusercontent.com/u/7265547?v=4" width="100px;" alt=""/><br /><sub><b>tbenning</b></sub></a><br /><a href="#design-tbenning" title="Design">🎨</a> <a href="#maintenance-tbenning" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://sinchang.me"><img src="https://avatars0.githubusercontent.com/u/3297859?v=4" width="100px;" alt=""/><br /><sub><b>Jeff Wen</b></sub></a><br /><a href="#maintenance-sinchang" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://maxcubing.wordpress.com"><img src="https://avatars0.githubusercontent.com/u/8260834?v=4" width="100px;" alt=""/><br /><sub><b>Maximilian Berkmann</b></sub></a><br /><a href="#translation-Berkmann18" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=Berkmann18" title="Documentation">📖</a> <a href="#maintenance-Berkmann18" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3ABerkmann18" title="Reviewed Pull Requests">👀</a> <a href="#talk-Berkmann18" title="Talks">📢</a></td>
+    <td align="center"><a href="http://matheu.srv.br"><img src="https://avatars0.githubusercontent.com/u/23284276?v=4" width="100px;" alt=""/><br /><sub><b>Matheus Rocha Vieira</b></sub></a><br /><a href="#translation-MatheusRV" title="Translation">🌍</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Code">💻</a> <a href="https://github.com/all-contributors/all-contributors/commits?author=MatheusRV" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://robertlluberes.com"><img src="https://avatars1.githubusercontent.com/u/13991439?v=4" width="100px;" alt=""/><br /><sub><b>Robert Lluberes</b></sub></a><br /><a href="#translation-robertlluberes" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://jongjineee.github.io"><img src="https://avatars2.githubusercontent.com/u/26620470?v=4" width="100px;" alt=""/><br /><sub><b>이종진</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Jongjineee" title="Documentation">📖</a> <a href="#translation-Jongjineee" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://marsx.vip"><img src="https://avatars2.githubusercontent.com/u/21303543?v=4" width="100px;" alt=""/><br /><sub><b>Wenqing Xue</b></sub></a><br /><a href="#translation-MarsXue" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://bogas04.github.io"><img src="https://avatars.githubusercontent.com/u/6177621?v=3" width="100px;" alt=""/><br /><sub><b>Divjot Singh</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=bogas04" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Abogas04" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="http://beneb.info"><img src="https://avatars.githubusercontent.com/u/1282980?v=3" width="100px;" alt=""/><br /><sub><b>Ben Briggs</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=ben-eb" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Aben-eb" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/Jameskmonger"><img src="https://avatars.githubusercontent.com/u/2037007?v=3" width="100px;" alt=""/><br /><sub><b>James Monger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=Jameskmonger" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/chrissimpkins"><img src="https://avatars.githubusercontent.com/u/4249591?v=3" width="100px;" alt=""/><br /><sub><b>Chris Simpkins</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=chrissimpkins" title="Documentation">📖</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Achrissimpkins" title="Reviewed Pull Requests">👀</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/fhemberger"><img src="https://avatars.githubusercontent.com/u/153481?v=3" width="100px;" alt=""/><br /><sub><b>F. Hemberger</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=fhemberger" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/frigginglorious"><img src="https://avatars.githubusercontent.com/u/3982200?v=3" width="100px;" alt=""/><br /><sub><b>Daniel Kraft</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=frigginglorious" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mbad0la"><img src="https://avatars.githubusercontent.com/u/8503331?v=3" width="100px;" alt=""/><br /><sub><b>Mayank Badola</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=mbad0la" title="Documentation">📖</a> <a href="#tool-mbad0la" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://www.marcobiedermann.com"><img src="https://avatars.githubusercontent.com/u/5244986?v=3" width="100px;" alt=""/><br /><sub><b>Marco Biedermann</b></sub></a><br /><a href="#design-marcobiedermann" title="Design">🎨</a></td>
+    <td align="center"><a href="https://github.com/itaisteinherz"><img src="https://avatars.githubusercontent.com/u/22768990?v=3" width="100px;" alt=""/><br /><sub><b>Itai Steinherz</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=itaisteinherz" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://nodescription.net"><img src="https://avatars1.githubusercontent.com/u/305339?v=3" width="100px;" alt=""/><br /><sub><b>Patrick Connolly</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=patcon" title="Documentation">📖</a></td>
+    <td align="center"><a href="http://nikolalsvk.github.io/"><img src="https://avatars2.githubusercontent.com/u/3028124?v=4" width="100px;" alt=""/><br /><sub><b>Nikola Đuza</b></sub></a><br /><a href="https://github.com/all-contributors/all-contributors/commits?author=nikolalsvk" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
