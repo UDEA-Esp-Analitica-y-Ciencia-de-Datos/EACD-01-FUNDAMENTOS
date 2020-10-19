@@ -83,11 +83,17 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
     <a href="https://www.linkedin.com/in/julian-andres-eusse-jaramillo-104547165/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
     <a href="jeussej@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
     </td>
-    <td align="center"><img src="images/foto.jpg" width="150px;" alt=""/><br />
-    <sub><b>Julian Eusse</b></sub></a><br />
-    <a href="https://github.com/jeussej"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
-    <a href="https://www.linkedin.com/in/julian-andres-eusse-jaramillo-104547165/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
-    <a href="jeussej@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    <td align="center"><img src="images/72226583_10217324853005911_2627347781202739200_o - Santiago Jaramillo González.jpg" width="150px;" alt=""/><br />
+    <sub><b>Santiago Jaramillo</b></sub></a><br />
+    <a href="https://github.com/santyjara"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/santiago-jaramillo-gonzalez/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="san_jara@outlook.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/Foto_perfil - danilo diaz.jpg" width="150px;" alt=""/><br />
+    <sub><b>Danilo Diaz</b></sub></a><br />
+    <a href="https://github.com/NILodio"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/danilo-diaz/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="ddiazva13@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
     </td>
     </tr>
 
