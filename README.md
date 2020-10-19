@@ -109,6 +109,24 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
     <a href="https://www.linkedin.com/in/nicolas-montoya/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
     <a href="edward.montoya@udea.edu.co"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
     </td>
+     <td align="center"><img src="images/AlbertoCeballos - Alberto Mario Ceballos Arroyo.jpg" width="150px;" alt=""/><br />
+    <sub><b>Alberto Mario Ceballos</b></sub></a><br />
+    <a href="https://github.com/alceballosa"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/alberto-mario-ceballos-arroyo-68120913a/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="albertom.ceballos@udea.edu.co"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/c02a26e8-bd23-4c66-8f70-3e9b91707fe5 - ÓSCAR ANDRÉS ZAPATA RIVERA.jpg" width="150px;" alt=""/><br />
+    <sub><b>Oscar Andres Zapata</b></sub></a><br />
+    <a href="https://github.com/andreszr"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/oscar-zapata/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="oandreszr@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/IMG_20200531_132026 - copia - Adrian Jimenez.jpg" width="150px;" alt=""/><br />
+    <sub><b>Adrian Yair Jimenez</b></sub></a><br />
+    <a href="https://github.com/adrianx30"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/ajimenezc30/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="adrianx30@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
 
 
     </tr>  
