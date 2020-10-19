@@ -70,4 +70,4 @@ Visita el cuadro de honor en https://jeussej.github.io/honor/
 - Librerías básicas de ciencias de datos: [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - Lógica de programación en general: [Hackerrank's interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) (se sugiere hacer los fáciles de cada tema, luego los intermedios de cada tema y luego los difíciles de cada tema). 
 
-<td align="center"><a href="https://sinchang.me"><img src="images/foto.jpg" width="100px;" alt=""/><br /><sub><b>Jeff Wen</b></sub></a><br /><a href="#maintenance-sinchang" title="Maintenance">🚧</a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td>
+<td align="center"><a href="https://sinchang.me"><img src="images/foto.jpg" width="100px;" alt=""/><br /><sub><b>Julian Eusse</b></sub></a><br /><a href="https://github.com/jeussej" class="h1"><i class="fab fa-github-square"></i></a> <a href="https://github.com/all-contributors/all-contributors/pulls?q=is%3Apr+reviewed-by%3Asinchang" title="Reviewed Pull Requests">👀</a></td>
