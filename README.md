@@ -61,7 +61,6 @@ Los talleres tendrán espacio suficiente para resolverse en las sesiones de clas
 
 Se creará un cuadro de honor con los estudiantes que tengan una participación excepcional en el curso, lo cual incluye, pero no está limitado a obtención de bonos mencionados anteriormente y ayuda a que otros compañeros tengan éxito en el curso. Este cuadro de honor será publico y se compartirá en distintos escenarios relevantes para el gremio.
 
-Visita el cuadro de honor en https://jeussej.github.io/honor/
 
 <table>
   <tr>
