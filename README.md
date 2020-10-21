@@ -61,6 +61,67 @@ Los talleres tendrán espacio suficiente para resolverse en las sesiones de clas
 
 Se creará un cuadro de honor con los estudiantes que tengan una participación excepcional en el curso, lo cual incluye, pero no está limitado a obtención de bonos mencionados anteriormente y ayuda a que otros compañeros tengan éxito en el curso. Este cuadro de honor será publico y se compartirá en distintos escenarios relevantes para el gremio.
 
+
+<table>
+  <tr>
+    <td align="center"><img src="images/foto.jpg" width="150px;" alt=""/><br />
+    <sub><b>Julian Eusse</b></sub></a><br />
+    <a href="https://github.com/jeussej"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/julian-andres-eusse-jaramillo-104547165/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="jeussej@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/72226583_10217324853005911_2627347781202739200_o - Santiago Jaramillo González.jpg" width="150px;" alt=""/><br />
+    <sub><b>Santiago Jaramillo</b></sub></a><br />
+    <a href="https://github.com/santyjara"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/santiago-jaramillo-gonzalez/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="san_jara@outlook.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/Foto_perfil - danilo diaz.jpg" width="150px;" alt=""/><br />
+    <sub><b>Danilo Diaz</b></sub></a><br />
+    <a href="https://github.com/NILodio"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/danilo-diaz/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="ddiazva13@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/Marcela.JPG" width="150px;" alt=""/><br />
+    <sub><b>Marcela Andrea Castrillon</b></sub></a><br />
+    <a href="https://github.com/andreacastrillon"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/andrea-castrillon-buitrago-232808145/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="andreitacastrillon92@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    </tr>
+  <tr>  
+  <td align="center"><img src="images/download - Desarrollo 2 Gestión Informatica Universidad de Antioquia.png" width="150px;" alt=""/><br />
+    <sub><b>Edward Nicolas Montoya</b></sub></a><br />
+    <a href="https://github.com/nicolasmontoya"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/nicolas-montoya/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="edward.montoya@udea.edu.co"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+     <td align="center"><img src="images/AlbertoCeballos - Alberto Mario Ceballos Arroyo.jpg" width="150px;" alt=""/><br />
+    <sub><b>Alberto Mario Ceballos</b></sub></a><br />
+    <a href="https://github.com/alceballosa"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/alberto-mario-ceballos-arroyo-68120913a/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="albertom.ceballos@udea.edu.co"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/c02a26e8-bd23-4c66-8f70-3e9b91707fe5 - ÓSCAR ANDRÉS ZAPATA RIVERA.jpg" width="150px;" alt=""/><br />
+    <sub><b>Oscar Andres Zapata</b></sub></a><br />
+    <a href="https://github.com/andreszr"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/oscar-zapata/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="oandreszr@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    <td align="center"><img src="images/IMG_20200531_132026 - copia - Adrian Jimenez.jpg" width="150px;" alt=""/><br />
+    <sub><b>Adrian Yair Jimenez</b></sub></a><br />
+    <a href="https://github.com/adrianx30"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
+    <a href="https://www.linkedin.com/in/ajimenezc30/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
+    <a href="adrianx30@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
+    </td>
+    </tr>   
+</table>
+
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
 ## Referencias:
 - Programar en Python: [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=pd_bxgy_img_3/139-6103944-8306009?_encoding=UTF8&pd_rd_i=1491946008&pd_rd_r=68fa3836-cfa5-48e7-a573-dc837d1faf10&pd_rd_w=ajpng&pd_rd_wg=jljLn&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=B3EBWN4RVD9V4CM8EF88&psc=1&refRID=B3EBWN4RVD9V4CM8EF88)
 - Librería estándar de Python: [The Python 3 Standard Library by Example](https://www.amazon.com/Python-Standard-Library-Example-Developers/dp/0134291050/ref=pd_lpo_14_t_0/139-6103944-8306009?_encoding=UTF8&pd_rd_i=0134291050&pd_rd_r=aa5b71e8-17d2-487e-994f-ed88e19ceb0c&pd_rd_w=9p0cS&pd_rd_wg=y2QUS&pf_rd_p=7b36d496-f366-4631-94d3-61b87b52511b&pf_rd_r=WVDQSM5SPV06PXS4ZJY2&psc=1&refRID=WVDQSM5SPV06PXS4ZJY2)
