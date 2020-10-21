@@ -118,9 +118,7 @@ Se creará un cuadro de honor con los estudiantes que tengan una participación 
 </table>
 
 
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
+
 
 ## Referencias:
 - Programar en Python: [Fluent Python: Clear, Concise, and Effective Programming](https://www.amazon.com/Fluent-Python-Concise-Effective-Programming/dp/1491946008/ref=pd_bxgy_img_3/139-6103944-8306009?_encoding=UTF8&pd_rd_i=1491946008&pd_rd_r=68fa3836-cfa5-48e7-a573-dc837d1faf10&pd_rd_w=ajpng&pd_rd_wg=jljLn&pf_rd_p=4e3f7fc3-00c8-46a6-a4db-8457e6319578&pf_rd_r=B3EBWN4RVD9V4CM8EF88&psc=1&refRID=B3EBWN4RVD9V4CM8EF88)
