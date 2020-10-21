@@ -81,13 +81,6 @@ Se creará un cuadro de honor con los estudiantes que tengan una participación 
     <a href="https://github.com/NILodio"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
     <a href="https://www.linkedin.com/in/danilo-diaz/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
     <a href="ddiazva13@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
-    </td>
-    <td align="center"><img src="images/Marcela.JPG" width="150px;" alt=""/><br />
-    <sub><b>Marcela Andrea Castrillon</b></sub></a><br />
-    <a href="https://github.com/andreacastrillon"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
-    <a href="https://www.linkedin.com/in/andrea-castrillon-buitrago-232808145/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
-    <a href="andreitacastrillon92@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
-    </td>
     </tr>
   <tr>  
   <td align="center"><img src="images/download - Desarrollo 2 Gestión Informatica Universidad de Antioquia.png" width="150px;" alt=""/><br />
