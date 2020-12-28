@@ -37,7 +37,7 @@ Se espera que tengas familiaridad con conceptos de programación, aunque se har�
   - Introducción a Pandas
   - Ejemplos de Pandas
   - Introducción a Matplotlib
-  - Taller 5: ...
+  - Taller 5: Análisis exploratorio de un dataset
 
 ## Criterios de evaluación
 
