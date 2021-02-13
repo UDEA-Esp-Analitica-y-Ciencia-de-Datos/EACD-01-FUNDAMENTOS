@@ -1,6 +1,6 @@
 # Construyendo una librería de álgebra líneal
 
-En este proyecto construirás tu propia librería de álgebra lineal. Python realmente tiene varias librerías para trabajar álgebra lineal, pero ceraremos una nosotros mismos como excusa perfecta para estudiar Python y repasar álgebra lineal, que es fundamental para el entendimiento de muchos algoritmos de Machine Learning. El projecto se debe realizar de manera individual. 
+En este proyecto construirás tu propia librería de álgebra lineal. Python realmente tiene varias librerías para trabajar álgebra lineal, pero crearemos una nosotros mismos como excusa perfecta para estudiar Python y repasar álgebra lineal, que es fundamental para el entendimiento de muchos algoritmos de Machine Learning. El projecto se debe realizar de manera individual. 
 
 Puedes acceder a la tarea siguiendo este link: https://classroom.github.com/a/A7G3abYr
 
