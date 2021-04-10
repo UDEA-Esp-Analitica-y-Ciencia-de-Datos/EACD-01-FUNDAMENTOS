@@ -111,7 +111,7 @@ Se creará un cuadro de honor con los estudiantes que tengan una participación 
     <a href="san_jara@outlook.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
     </td>
     <td align="center"><img src="images/Foto_StivenSanmartin.jpg" width="150px;" alt=""/><br />
-    <sub><b>Santiago Jaramillo</b></sub></a><br />
+    <sub><b>Stiven Sanmartin</b></sub></a><br />
     <a href="https://github.com/stivensanmartin"><img src="https://www.iconsdb.com/icons/preview/icon-sets/web-2-blue-2/github-6-xxl.png" width="25px;" alt="" >
     <a href="https://www.linkedin.com/in/stiven-sanmartin-jaramillo/"><img src="http://files.softicons.com/download/social-media-icons/free-social-media-icons-by-uiconstock/png/256x256/Linkedin-Icon.png" width="25px;" alt="" >
     <a href="stiven.sanmartin@gmail.com"><img src="https://yakimaymca.org/wp-content/uploads/2017/08/Mail-letter-icon-blue-300x300.png" width="25px;" alt="" >
